@@ -1,31 +1,76 @@
-<h1>Hi, I'm Sung! <br/></h1>
+<h1>Hi, I'm Sung! </h1>
 
 <h2>👨‍💻 Business Analyst and Technical Writer</h2>
 
-<h3> I'm a strategic Business Analyst with experience delivering scalable, compliant solutions for federal agencies, including IRS and DoD. Proven in aligning technical delivery with mission objectives, driving workflow optimization, and authoring high-impact documentation under Agile frameworks. Known for enhancing service delivery, reducing operational friction, and supporting successful federal proposals.</h3>
+I'm a strategic Business Analyst with experience delivering scalable, compliant solutions for federal agencies, including IRS and DoD. Proven in aligning technical delivery with mission objectives, driving workflow optimization, and authoring high-impact documentation under Agile frameworks. Known for enhancing service delivery, reducing operational friction, and supporting successful federal proposals.
 
-<h2>Core Competencies </h2>
-•	Requirements Gathering & Analysis – Stakeholder interviews, user stories, BRDs
-•	Process Improvement & Workflow Optimization – SOPs, BPMN diagrams, Lean principles
-•	Agile/Scrum & SDLC Methodologies – Sprint planning, retrospectives, backlog grooming
-•	Technical & Functional Documentation – Confluence, SharePoint, MS Word
-•	Stakeholder Engagement & Communication – Client briefings, team facilitation
-•	Data Visualization & Analytics – Power BI, Excel dashboards, SQL basics
-•	UAT Testing & Support – Test script design, defect triage, release readiness
-•	Section 508 Compliance – Accessible content for federal training and documentation
-•	Federal Proposal & Contract Support – RFP responses, compliance matrices
+
+
+<section class="competencies fade-in">
+  <div class="container">
+    <h2>🧩 Core Competencies</h2>
+    <table class="competency-table">
+      <thead>
+        <tr>
+          <th>💼 Skill Area</th>
+          <th>✅ Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>🔍 Business Analysis</strong></td>
+          <td>Experienced in requirements gathering, stakeholder interviews, and process mapping to align technology with business goals.</td>
+        </tr>
+        <tr>
+          <td><strong>📝 Technical Writing</strong></td>
+          <td>Creates clear, user-friendly SOPs, manuals, and technical guides for cross-functional teams and end-users.</td>
+        </tr>
+        <tr>
+          <td><strong><p>⚙️ Holistic Thinking</strong></td>
+          <td>Understands the relationships between people, processes, and platforms — ensuring scalable, connected solutions.</td>
+        </tr>
+        <tr>
+          <td><strong>🛠 Platforms</strong></td>
+          <td>Proficient in Jira, Confluence, ServiceNow, Git, Microsoft 365 — and quick to adapt to new technologies.</td>
+        </tr>
+        <tr>
+          <td><strong>💬 Communication</strong></td>
+          <td>Strong communicator with the ability to translate complex information into clear, actionable content for all audiences.</td>
+        </tr>
+        <tr>
+          <td><strong>🎯 Meticulousness</strong></td>
+          <td>Committed to accuracy and clarity — in documentation, reporting, and all aspects of work delivery.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+
+
+
 
 <h2>Certifications & Training </h2>
-ITIL V3 Foundation
-Microsoft Certified:  Specialist, MCP, MCTS
-Section 508 Accessibility Training
-Agile Fundamentals & Scrum Master overview </h2>
+
+<ul>
+  <li>ITIL V3 Foundation</li>
+  <li>Microsoft Certified:  Specialist, MCP, MCTS</li>
+  <li>Section 508 Accessibility Training</li>
+  <li>gile Fundamentals & Scrum Master overview </li>
+</ul>
 
 <h2>Education</h2>
-M.S. in Instructional System Design, George Mason University – Applied in developing 508-compliant training for IRS and DoD users, 2014
-Bachelor’s Degree in Business Management – University of Phoenix, 2011
 
-<h2> 🤳 Connect with me:
+
+M.S. in Instructional System Design, George Mason University – Applied in developing 508-compliant training for IRS and DoD users, 2014  
+Bachelor’s Degree in Business Management – University of Phoenix, 2011  
+
+  <br></br>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+  
 <a href="https://drive.google.com/drive/u/0/home" target="_blank">
   <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=read-the-docs" alt="Resume"/>
 </a>
