@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sung! </h1>
 
-<h2><br>👨‍💻 Business Analyst and Technical Writer</br></h2>
+<h2>👨‍💻 Business Analyst and Technical Writer</h2>
 
 I'm a strategic Business Analyst with experience delivering scalable, compliant solutions for federal agencies, including IRS and DoD. Proven in aligning technical delivery with mission objectives, driving workflow optimization, and authoring high-impact documentation under Agile frameworks. Known for enhancing service delivery, reducing operational friction, and supporting successful federal proposals.
 
@@ -48,7 +48,6 @@ I'm a strategic Business Analyst with experience delivering scalable, compliant 
   </div>
 </section>
 
-</br>
 
 
 
@@ -61,7 +60,7 @@ I'm a strategic Business Analyst with experience delivering scalable, compliant 
   <li>Agile Fundamentals & Scrum Master overview </li>
 </ul>
 
-<h2><br>Education</br></h2>
+<h2>Education</h2>
 
 
 M.S.in Instructional System Design, George Mason University, 2014;
