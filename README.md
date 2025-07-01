@@ -6,6 +6,8 @@ I'm a strategic Business Analyst with experience delivering scalable, compliant 
 
 
 <br>
+
+
 <section class="competencies fade-in">
   <div class="container">
     <h2>🧩 Core Competencies</h2>
