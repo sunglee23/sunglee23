@@ -5,7 +5,7 @@
 I'm a strategic Business Analyst with experience delivering scalable, compliant solutions for federal agencies, including IRS and DoD. Proven in aligning technical delivery with mission objectives, driving workflow optimization, and authoring high-impact documentation under Agile frameworks. Known for enhancing service delivery, reducing operational friction, and supporting successful federal proposals.
 
 
-
+<br>
 <section class="competencies fade-in">
   <div class="container">
     <h2>🧩 Core Competencies</h2>
@@ -46,7 +46,7 @@ I'm a strategic Business Analyst with experience delivering scalable, compliant 
   </div>
 </section>
 
-
+</br>
 
 
 
