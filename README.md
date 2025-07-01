@@ -65,7 +65,7 @@ I'm a strategic Business Analyst with experience delivering scalable, compliant 
 M.S. in Instructional System Design, George Mason University - Applied in developing 508-compliant training for IRS and DoD users, 2014  
 Bachelor’s Degree in Business Management, University of Phoenix, 2011  
 
-
+<br></br>
 
 <h2> 🤳 Connect with me:</h2>
 
