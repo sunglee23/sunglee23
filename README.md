@@ -73,7 +73,7 @@ B.S.in Business Management, University of Phoenix, 2011
   <a href="mailto:sung.m.lee23@gmail.com"><img src="https://img.shields.io/badge/email-contact-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/sungmlee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://github.com/sunglee23"><img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="[https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/123ABC456XYZ/view?usp=sharing)" target="_blank">
+  <a href="https://drive.google.com/file/d/123ABC456XYZ/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=read-the-docs" alt="Resume"/>
 </a>
 
